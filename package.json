@@ -1,0 +1,31 @@
+{
+  "name": "flexunit",
+  "version": "0.1.0",
+  "description": "A Node.js module to download and \"install\" the FlexUnit infrastructure for testing ActionScript/Flash/Flex/AIR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesMGreene/node-flexunit.git"
+  },
+  "keywords": [
+    "flash",
+    "flex",
+    "flexunit",
+    "unit",
+    "test",
+    "fluint"
+  ],
+  "author": {
+    "name": "James M. Greene",
+    "email": "james.m.greene@gmail.com",
+    "url": "http://greene.io/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesMGreene/node-flexunit/issues"
+  },
+  "homepage": "https://github.com/JamesMGreene/node-flexunit"
+}
